@@ -1,6 +1,6 @@
 # Q1 - Basic Selector
 
-In this execrise, we will practise basic selecting. This will be guided, but for the next question, you will be on your own!
+In this exercise, we will practise basic selecting. This will be guided, but for the next question, you will be on your own!
 
 ## document.querySelector
 
